@@ -1,0 +1,19 @@
+{
+    "component_name": "simple_footer_component",
+    "id": "simple_footer_component_1721972767",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 8,
+    "x": 0,
+    "y": 7,
+    "i": "0",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true,
+    "name": ""
+}
